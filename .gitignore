@@ -1,0 +1,4 @@
+__pychae__/
+*.pth
+*.env
+node_modules/
